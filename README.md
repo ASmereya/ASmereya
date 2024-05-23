@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ASmereya
 - 👀 I’m interested in quite a lot of things.
-- 🌱 I’m currently learning c++.
+- 🌱 I’m currently learning data analytics.
 - 📫 How to reach me ...sorry not now!
 
 <!---
